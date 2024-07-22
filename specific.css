@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "head_font2";
+    src: url("arabic_fonts/Graffiti-Font-Normal.ttf");
+}
+/* section 1 */
+#sec1 p{
+    font-size: 70px;
+    color: white;
+    font-family: "head_font2";
+    margin-top: 40%;
+    text-align: center;
+}
+#row1{
+    width:100%;
+    height:100%;
+    background-image: url("img/Group\ 14.jpg");
+    /* background-repeat:repeat; */
+    background-size:cover;
+
+} 
+#girl{
+    margin-top: 120px;
+    height: 250px;
+}
+
+@media(min-width:1303px){
+    #row1{
+        width:410vh;
+        height:100%;
+        background-image: url("img/Group\ 14.jpg");
+        /* background-repeat:repeat; */
+        background-size:cover;
+    }
+    #girl{
+        margin-top: 100px;
+        height: 400px;
+
+        transform: translateX(100px);
+        -webkit-transform: translateX(100px);
+        -moz-transform: translateX(100px);
+        -ms-transform: translateX(100px);
+        -o-transform: translateX(100px);
+}
+    #sec2{
+        margin-top: 100px;
+        position: relative;
+        left:170px;
+    }
+    #back{
+        background-color: #9ec4d43c;
+        margin-bottom: 20px;
+    }
+}
+
+
+/* section 2 */
+#sec2{
+    margin-top: 50px;
+    margin-left:23%;
+}
+#back{
+    background-color: #9ec4d4c8;
+    width: 50%;
+    margin-left: 8%;
+}
+
+
+.card-title{
+    color: white;
+    font-family: "head_font2";
+    text-align: center;
+}
+
+.card-text{
+    padding-top: 10px;
+    color: white;
+    font-family: "head_font2";
+    text-align: center;
+}
+#card-text{
+    padding-top: 0px;
+    text-decoration: none;
+   
+}
+
+
+#rang1{
+    -webkit-appearance: none;
+    /*Overridedefaultlook*/width: 100%;
+    height: 6px;
+    background: #427C94;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    margin: 20px 0px;
+}
+#rang1::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    background: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: 6px solid #fff;
+    box-shadow: 0 20px 20px #2b7392 inset;
+}
+
+.controls{
+    /* position: relative;
+    left:22%; */
+}
+.controls img{
+    margin-left: 20%;
+}
+

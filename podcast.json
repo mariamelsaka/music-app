@@ -1,0 +1,72 @@
+
+[
+    {
+        "id":"1",
+        "podcast_image":"img/studio_fengan_thumbnail (1).jpg",
+        "podcast_name":"فنجان",
+        "host_name":"عبد الرحمن ابو مالح",
+        "podcasts":[
+            {
+                "pod_id":"1",
+                "guest_name":"ياسر الحزيمي",
+                "pod_name":"كيف تنجح العلاقات مع ياسر الحزيمي",
+                "pod_img":"img/relationships.jpg",
+                "pod_audio":"audio/i'm right.mp3"
+            },
+            {
+                "pod_id":"2",
+                "guest_name":"البراء العوهلي",
+                "pod_name":"كيف تصمم حياتك وتعيش راضيًا" ,
+                "pod_img":"img/how.jpg",
+                "pod_audio":"audio/end of the world.mp3"
+            
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "podcast_image":"img/studio_square_thumbnail.jpg",
+        "podcast_name":"مربع",
+        "host_name":"حاتم النجار",
+        "podcasts":[
+            {
+                "pod_id":"3",
+                "guest_name":"يعن الله القرني",
+                "pod_name":"كيف تكتسب المهارات الحياتية",
+                "pod_img":"img/plan.jpg",
+                "pod_audio":"audio/i'm right.mp3"
+            },
+            {
+                "pod_id":"4",
+                "guest_name":"د. أنمار مطاوع",
+                "pod_name":"كيف يؤثر التواصل على حياتنا" ,
+                "pod_img":"img/connect.jpg",
+                "pod_audio":"audio/end of the world.mp3"
+             
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "podcast_image":"img/podcast-3lmy.webp",
+        "podcast_name":"بودكاست علمي جدا",
+        "host_name":"احمد سمير",
+        "podcasts":[
+            {
+                "pod_id":"5",
+                "guest_name":"",
+                "pod_name":"نهاية الكون",
+                "pod_img":"img/end of world.webp",
+                "pod_audio":"audio/end of the world.mp3"
+            },
+            {
+                "pod_id":"6",
+                "guest_name":"",
+                "pod_name":"انا دائما صح" ,
+                "pod_img":"img/i'm right.webp",
+                "pod_audio":"audio/i'm right.mp3"
+            }
+        ]
+    }
+
+]

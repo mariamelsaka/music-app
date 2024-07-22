@@ -1,0 +1,3 @@
+let arrOfBtns = [];
+
+export { arrOfBtns };
