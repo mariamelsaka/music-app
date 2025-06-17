@@ -1,7 +1,7 @@
 # music-app
 Music Podcast App
 This is a simple JavaScript-only Music Podcast app deployed here  <br><br>
-https://storied-gecko-360819.netlify.app/ <br> <br>
+https://music-podcast-app.netlify.app <br> <br>
 ⚠ NOTE: IT'S NOT RESPONSIVE ⚠
 
 # 🎯 Project Aim
